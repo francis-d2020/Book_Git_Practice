@@ -2,3 +2,5 @@ dont ask again
 
 
 and cancel
+
+i edit page 2 after committed it
